@@ -27,17 +27,42 @@
 ### 🛠️ Compétences principales
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,mysql,wordpress,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,angular,fastapi,mongodb,tailwind,docker,php,html,css,mysql,wordpress,linux,git,github,gcp,vscode" />
+</p>
+
+### 🕵️ Pentest & sécurité offensive
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
 ### 🤖 Outils IA
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-1F4E5F?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-1F4E5F?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Perplexity-2E8B8B?style=for-the-badge&logo=perplexity&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### 🌐 Modèles open source (via OpenRouter)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-6C3EF5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kimi-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GLM-4B8BF5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openrouter&logoColor=white" />
+</p>
+
+### 🛡️ Agents IA & sécurité
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Strix-AI%20Pentesting-1F4E5F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenClaw-Agent%20IA%20autonome-2E8B8B?style=for-the-badge" />
 </p>
 
 ### 📌 Projet en vedette
