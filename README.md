@@ -1,54 +1,55 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E5F&height=160&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:10B981&height=160&section=header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=1F4E5F&width=520&lines=Hi%2C+I'm+Roy1899;Web+Developer;Cybersecurity+Analyst;Pentesting+%26+OSINT+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=8B5CF6&width=520&lines=Hi%2C+I'm+Roy1899;Web+Developer;Cybersecurity+Analyst;Pentesting+%26+OSINT+enthusiast" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Roy1899</h1>
 <p align="center">Développeur Web & Analyste Cybersécurité — Aix-en-Provence, France</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Freelance-Consultant%20Cybers%C3%A9curit%C3%A9-1F4E5F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CNAM%20Paca-Analyste%20Cybers%C3%A9curit%C3%A9-2E8B8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freelance-Consultant%20Cybers%C3%A9curit%C3%A9-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNAM%20Paca-Analyste%20Cybers%C3%A9curit%C3%A9-10B981?style=for-the-badge" />
 </p>
 
 ---
 
-### 🔐 À propos
+### À propos
 
-- 🕵️ Analyse de vulnérabilités, tests d'intrusion web, audits de sécurité
-- 🌐 Développement web full-stack (Python, JS/TS, PHP, SQL) + CMS (WordPress, Drupal, Joomla)
-- 📋 Conformité RGPD, bonnes pratiques ISO 27001
-- 🕶️ OSINT & Capture The Flag (CTF)
-- 🤖 Utilisation quotidienne d'outils IA pour la veille, l'analyse et le dev
+<ul>
+<li>Analyse de vulnérabilités, tests d'intrusion web, audits de sécurité</li>
+<li>Développement web full-stack (Python, JS/TS, PHP, SQL) + CMS (WordPress, Drupal, Joomla)</li>
+<li>Conformité RGPD, bonnes pratiques ISO 27001</li>
+<li>OSINT & Capture The Flag (CTF)</li>
+<li>Utilisation quotidienne d'outils IA pour la veille, l'analyse et le dev</li>
+</ul>
 
-### 🛠️ Compétences principales
+### Compétences principales
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,angular,fastapi,mongodb,tailwind,docker,php,html,css,mysql,wordpress,linux,git,github,gcp,vscode" />
 </p>
 
-### 🕵️ Pentest & sécurité offensive
+### Pentest & sécurité offensive
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-8B5CF6?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-10B981?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
-### 🤖 Outils IA
+### Outils IA
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-1F4E5F?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20Code-1F4E5F?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-2E8B8B?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-10B981?style=for-the-badge&logo=perplexity&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### 🌐 Modèles open source (via OpenRouter)
+### Modèles open source (via OpenRouter)
 
 <p align="center">
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
@@ -58,26 +59,34 @@
   <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openrouter&logoColor=white" />
 </p>
 
-### 🛡️ Agents IA & sécurité
+### Agents IA & sécurité
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Strix-AI%20Pentesting-1F4E5F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenClaw-Agent%20IA%20autonome-2E8B8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Strix-AI%20Pentesting-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenClaw-Agent%20IA%20autonome-10B981?style=for-the-badge" />
 </p>
 
-### 📌 Projet en vedette
+### Terminal
+
+<p align="center">
+  <a href="https://github.com/roy1899">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=roy1899&theme=ubuntu&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ccat%20bio.txt%2Cexit&customCommands=%7B%22cat%20bio.txt%22%3A%22Cybersecurity%20Analyst%20%26%20Web%20Developer%20%7C%20Aix-en-Provence%2C%20FR%22%7D" alt="GitHub Stats Terminal" />
+  </a>
+</p>
+
+### Projet en vedette
 
 **[cybertoolkit-mobile-framework](https://github.com/roy1899/cybertoolkit-mobile-framework)**
-Framework Android/Termux d'analyse réseau et cybersécurité. Détection passive de contexte partout, scans actifs uniquement sur réseaux autorisés explicitement — architecture Engine/Execution Policy.
+Framework Android/Termux d'analyse réseau et cybersécurité. Détection passive de contexte partout, scans actifs uniquement sur réseaux autorisés explicitement.
 
-### 📫 Me contacter
+### Me contacter
 
 <p align="center">
   <a href="mailto:r.perezambuila@gmail.com">
-    <img src="https://img.shields.io/badge/Email-r.perezambuila%40gmail.com-1F4E5F?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-r.perezambuila%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E5F&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:8B5CF6&height=100&section=footer"/>
 </p>
