@@ -7,11 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=2000&color=10B981&width=520&lines=Web+Developer;D%C3%A9veloppeur+App" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=2000&color=8B5CF6&width=520&lines=Analyste+Cybersecurite;Pentesting+%26+OSINT+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=2000&color=10B981&width=300&lines=Web+Developer;D%C3%A9veloppeur+App" alt="Typing SVG" />
+  &nbsp;<strong>&amp;</strong>&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=2000&color=8B5CF6&width=300&lines=Analyste+Cybersecurite;Pentesting+%26+OSINT+enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">Développeur Web & Analyste Cybersécurité — Aix-en-Provence, France</p>
@@ -29,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/roy1899">
-        <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=roy1899&theme=ubuntu&headerStyle=mac&typingSpeed=250&hostname=github.com&commands=whoami%2Ccat%20about.txt%2Ccat%20skills.txt&customCommands=%7B%22cat%20about.txt%22%3A%22Developpeur%20Web%20freelance%20%26%20Analyste%5CnCybersecurite%20%28CNAM%20Paca%29%2C%20base%20a%5CnAix-en-Provence.%5CnConception%20d%27applications%20full-stack%2C%5Cnaudits%20de%20securite%2C%20tests%20d%27intrusion%2C%5CnOSINT%20et%20veille%20IA%20au%20quotidien.%22%2C%22cat%20skills.txt%22%3A%22Python%20%5B%23%23%23%23%23%23%23%23..%5D%2090%25%5CnJS%2FTS%20%5B%23%23%23%23%23%23%23%23..%5D%2085%25%5CnReact%2FAngular%20%5B%23%23%23%23%23%23%23...%5D%2080%25%5CnDocker%20%5B%23%23%23%23%23%23%23%23..%5D%2085%25%5CnPentest%20%5B%23%23%23%23%23%23%23%23%23.%5D%2090%25%22%7D" alt="GitHub Stats Terminal" />
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=roy1899&theme=ubuntu&headerStyle=mac&typingSpeed=250&hostname=github.com&commands=whoami%2Ccat%20about.txt%2Ccat%20skills.txt&customCommands=%7B%22cat%20about.txt%22%3A%22Developpeur%20Web%20%26%20Analyste%20en%20cybersecurite%5Cn%28CNAM%20Paca%29%2C%20base%20a%20Aix-en-Provence.%5CnDisponible%20en%20teletravail%20%28UE%20%2F%20LATAM%29.%5CnConception%20d%27applications%20web%20et%20outils%5Cnmetier%20sur-mesure%2C%20automatisations%20et%5Cnagents%20IA%20dedies.%20Audits%20de%20securite%2C%5Cntests%20d%27intrusion%2C%20OSINT%2C%20veille%20NIST%2FRGPD%2C%5Cnconformite%20aux%20normes%20ISO%20en%20vigueur.%22%2C%22cat%20skills.txt%22%3A%22Python%20%5B%23%23%23%23%23%23%23%23..%5D%2090%25%5CnJS%2FTS%20%5B%23%23%23%23%23%23%23%23..%5D%2085%25%5CnReact%2FAngular%20%5B%23%23%23%23%23%23%23...%5D%2080%25%5CnDocker%20%5B%23%23%23%23%23%23%23%23..%5D%2085%25%5CnKVM%20%5B%23%23%23%23%23%23%23...%5D%2075%25%5CnSupabase%20%5B%23%23%23%23%23%23%23%23..%5D%2080%25%5CnFirebase%20%5B%23%23%23%23%23%23%23...%5D%2075%25%5CnPentest%20%5B%23%23%23%23%23%23%23%23%23.%5D%2090%25%22%7D" alt="GitHub Stats Terminal" />
   </a>
 </p>
 
@@ -66,6 +64,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Strix-AI%20Pentesting-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenClaw-Agent%20IA%20autonome-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/N8N-10B981?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ### Projet en vedette
