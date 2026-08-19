@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://github.com/roy1899">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=roy1899&theme=ubuntu&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ccat%20bio.txt%2Cexit&customCommands=%7B%22cat%20bio.txt%22%3A%22Cybersecurity%20Analyst%20%26%20Web%20Developer%20%7C%20Aix-en-Provence%2C%20FR%22%7D" alt="GitHub Stats Terminal" />
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=roy1899&theme=ubuntu&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Ccat%20about.txt%2Ccat%20skills.txt%2Cexit&customCommands=%7B%22cat%20about.txt%22%3A%22Freelance%20%26%20CNAM%20Paca%20%7C%20Pentest%2C%20OSINT%2C%20Dev%20Full-Stack%2C%20IA%22%2C%22cat%20skills.txt%22%3A%22Python%2C%20JS%2FTS%2C%20React%2C%20Angular%2C%20FastAPI%2C%20Docker%2C%20Burp%20Suite%2C%20Metasploit%22%7D" alt="GitHub Stats Terminal" />
   </a>
 </p>
 
