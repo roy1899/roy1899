@@ -8,7 +8,6 @@
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=2000&color=10B981&width=200&lines=D%C3%A9veloppeur+App" alt="Typing SVG" />
-        &nbsp;&amp;&nbsp;
             <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=2000&color=8B5CF6&width=230&lines=Analyste+Cybersecurite" alt="Typing SVG" />
 </p>
 
@@ -18,8 +17,7 @@
   <img src="https://img.shields.io/badge/D%C3%A9veloppeur-10B981?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web%20%2F%20App-6B7280?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Freelance-Consultant%20Cybers%C3%A9curit%C3%A9-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CNAM%20Paca-Analyste%20Cybers%C3%A9curit%C3%A9-8B5CF6?style=for-the-badge" />
-</p>
+  </p>
 
 ### À propos
 
