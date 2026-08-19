@@ -19,14 +19,8 @@
 
 <p align="center">
   <a href="https://github.com/roy1899">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=roy1899&theme=ubuntu&headerStyle=mac&typingSpeed=180&hostname=github.com&commands=whoami%2Ccat%20about.txt%2Ccat%20skills.txt%2Cexit&customCommands=%7B%22cat%20about.txt%22%3A%22Analyse%20de%20vulnerabilites%2C%20pentest%20web%2C%20audits%20securite%20%7C%20Dev%20full-stack%20Python%2FJS%2FTS%2FPHP%20%2B%20WordPress%2FDrupal%2FJoomla%20%7C%20RGPD%20%26%20ISO%2027001%20%7C%20OSINT%20%26%20CTF%22%2C%22cat%20skills.txt%22%3A%22Python%2C%20JS%2FTS%2C%20React%2C%20Angular%2C%20FastAPI%2C%20Node.js%2C%20Docker%2C%20Burp%20Suite%2C%20Metasploit%22%7D" alt="GitHub Stats Terminal" />
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=roy1899&theme=ubuntu&headerStyle=mac&typingSpeed=180&hostname=github.com&commands=whoami%2Ccat%20about.txt%2Ccat%20skills.txt%2Cexit&customCommands=%7B%22cat%20about.txt%22%3A%22Developpeur%20Web%20freelance%20%26%20Analyste%20Cybersecurite%20%28CNAM%20Paca%29%20-%20pentest%2C%20OSINT%20et%20developpement%20full-stack%20au%20quotidien.%22%2C%22cat%20skills.txt%22%3A%22Python%20%5B%23%23%23%23%23%23%23%23..%5D%2090%25%5CnJS%2FTS%20%5B%23%23%23%23%23%23%23%23..%5D%2085%25%5CnReact%2FAngular%20%5B%23%23%23%23%23%23%23...%5D%2080%25%5CnDocker%20%5B%23%23%23%23%23%23%23%23..%5D%2085%25%5CnPentest%20%5B%23%23%23%23%23%23%23%23%23.%5D%2090%25%22%7D" alt="GitHub Stats Terminal" />
   </a>
-</p>
-
-### Compétences principales
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,angular,fastapi,mongodb,tailwind,docker,php,html,css,mysql,wordpress,linux,git,github,gcp,vscode" />
 </p>
 
 ### Pentest & sécurité offensive
@@ -67,7 +61,7 @@
 ### Projet en vedette
 
 **[cybertoolkit-mobile-framework](https://github.com/roy1899/cybertoolkit-mobile-framework)**
-Framework Android/Termux d'analyse réseau et cybersécurité. Détection passive de contexte partout, scans actifs uniquement sur réseaux autorisés explicitement.
+Framework Android/Termux d'analyse réseau et cybersécurité, développé par Roy1899. Détection passive de contexte partout, scans actifs uniquement sur réseaux autorisés explicitement.
 
 ### Me contacter
 
