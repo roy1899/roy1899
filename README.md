@@ -24,7 +24,8 @@
 ### À propos
 
 - Analyse de vulnérabilités, tests d'intrusion web, audits de sécurité
-- Développement web full-stack (Python, JS/TS, PHP, SQL) + CMS (WordPress, Drupal, Joomla)
+- Développement web full-stack (Python, JS/TS, PHP, SQL, HTML/CSS)
+- CMS & LMS : WordPress (thème OceanWP, page builder Elementor), Moodle, Drupal, Joomla
 - Conformité RGPD, bonnes pratiques ISO 27001
 - OSINT & Capture The Flag (CTF)
 - Utilisation quotidienne d'outils IA pour la veille, l'analyse et le dev
