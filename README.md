@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=2000&color=10B981&width=300&lines=Web+Developer;D%C3%A9veloppeur+App" alt="Typing SVG" />
-  &nbsp;<strong>&amp;</strong>&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=2000&color=8B5CF6&width=300&lines=Analyste+Cybersecurite;Pentesting+%26+OSINT+enthusiast" alt="Typing SVG" />
-</p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=2000&color=10B981&width=200&lines=D%C3%A9veloppeur+App" alt="Typing SVG" />
+        &nbsp;&amp;&nbsp;
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=2000&color=8B5CF6&width=230&lines=Analyste+Cybersecurite" alt="Typing SVG" />
+</p>p>
 
 <p align="center">Développeur Web & Analyste Cybersécurité — Aix-en-Provence, France</p>
 
