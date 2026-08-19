@@ -17,13 +17,11 @@
 
 ### À propos
 
-<ul>
-<li>Analyse de vulnérabilités, tests d'intrusion web, audits de sécurité</li>
-<li>Développement web full-stack (Python, JS/TS, PHP, SQL) + CMS (WordPress, Drupal, Joomla)</li>
-<li>Conformité RGPD, bonnes pratiques ISO 27001</li>
-<li>OSINT & Capture The Flag (CTF)</li>
-<li>Utilisation quotidienne d'outils IA pour la veille, l'analyse et le dev</li>
-</ul>
+<p align="center">
+  <a href="https://github.com/roy1899">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=roy1899&theme=ubuntu&headerStyle=mac&typingSpeed=180&hostname=github.com&commands=whoami%2Ccat%20about.txt%2Ccat%20skills.txt%2Cexit&customCommands=%7B%22cat%20about.txt%22%3A%22Analyse%20de%20vulnerabilites%2C%20pentest%20web%2C%20audits%20securite%20%7C%20Dev%20full-stack%20Python%2FJS%2FTS%2FPHP%20%2B%20WordPress%2FDrupal%2FJoomla%20%7C%20RGPD%20%26%20ISO%2027001%20%7C%20OSINT%20%26%20CTF%22%2C%22cat%20skills.txt%22%3A%22Python%2C%20JS%2FTS%2C%20React%2C%20Angular%2C%20FastAPI%2C%20Node.js%2C%20Docker%2C%20Burp%20Suite%2C%20Metasploit%22%7D" alt="GitHub Stats Terminal" />
+  </a>
+</p>
 
 ### Compétences principales
 
@@ -64,14 +62,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Strix-AI%20Pentesting-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenClaw-Agent%20IA%20autonome-10B981?style=for-the-badge" />
-</p>
-
-### Terminal
-
-<p align="center">
-  <a href="https://github.com/roy1899">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=roy1899&theme=ubuntu&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Ccat%20about.txt%2Ccat%20skills.txt%2Cexit&customCommands=%7B%22cat%20about.txt%22%3A%22Freelance%20%26%20CNAM%20Paca%20%7C%20Pentest%2C%20OSINT%2C%20Dev%20Full-Stack%2C%20IA%22%2C%22cat%20skills.txt%22%3A%22Python%2C%20JS%2FTS%2C%20React%2C%20Angular%2C%20FastAPI%2C%20Docker%2C%20Burp%20Suite%2C%20Metasploit%22%7D" alt="GitHub Stats Terminal" />
-  </a>
 </p>
 
 ### Projet en vedette
