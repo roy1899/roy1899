@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=2000&color=FFFFFF&width=520&lines=Hi%2C+I%27m+Roy1899" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=2000&color=FFFFFF&width=320&lines=Hi%2C+I%27m+Roy1899" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 ### Compétences principales
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,angular,fastapi,mongodb,tailwind,docker,php,html,css,mysql,wordpress,linux,git,github,gcp,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,angular,fastapi,mongodb,tailwind,docker,php,html,css,mysql,wordpress,linux,git,github,gcp,vscode&perline=10" />
 </p>
 
 ---
